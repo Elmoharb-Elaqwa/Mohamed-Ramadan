@@ -97,13 +97,13 @@ const Experience = () => {
                   <small className="text-align">Experienced</small>
                 </div>
               </article>{' '}
-              {/* <article className="experience__details">
+              <article className="experience__details">
                 <BsPatchCheckFill className="experience___icon" />
                 <div>
-                  <h4></h4>
-                  <small className="text-align">Tracking</small>
+                  <h4>Freelancer</h4>
+                  <small className="text-align">Experienced</small>
                 </div>
-              </article>{' '} */}
+              </article>{' '}
               {/* <article className="experience__details">
                 <BsPatchCheckFill className="experience___icon" />
                 <div>
