@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mohamed-Ramadan/static/css/main.0a49ce68.css",
-    "main.js": "/Mohamed-Ramadan/static/js/main.6636449f.js",
+    "main.js": "/Mohamed-Ramadan/static/js/main.c573c738.js",
     "static/media/mohamed1111.png": "/Mohamed-Ramadan/static/media/mohamed1111.987f72d4783e80764c25.png",
     "static/media/Mohamed Ramadan Ibrahim.pdf": "/Mohamed-Ramadan/static/media/Mohamed Ramadan Ibrahim.75640ec150668ef59472.pdf",
     "static/media/mohamed11111.png": "/Mohamed-Ramadan/static/media/mohamed11111.8ed66048a2a25dc03253.png",
@@ -25,10 +25,10 @@
     "static/media/portfolio4.jpg": "/Mohamed-Ramadan/static/media/portfolio4.e3f1c5c791c8f13dd5ef.jpg",
     "index.html": "/Mohamed-Ramadan/index.html",
     "main.0a49ce68.css.map": "/Mohamed-Ramadan/static/css/main.0a49ce68.css.map",
-    "main.6636449f.js.map": "/Mohamed-Ramadan/static/js/main.6636449f.js.map"
+    "main.c573c738.js.map": "/Mohamed-Ramadan/static/js/main.c573c738.js.map"
   },
   "entrypoints": [
     "static/css/main.0a49ce68.css",
-    "static/js/main.6636449f.js"
+    "static/js/main.c573c738.js"
   ]
 }
