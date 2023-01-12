@@ -116,7 +116,7 @@ const Services = () => {
         <Slide left>
           <article className="service">
             <div className="service___head">
-              <h3>Courses& Certificates</h3>
+              <h3>Courses & Certificates</h3>
             </div>
             <ul className="service___list">
               <li>
