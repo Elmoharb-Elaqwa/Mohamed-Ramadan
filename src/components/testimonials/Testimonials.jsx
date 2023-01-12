@@ -19,27 +19,27 @@ const Testimonials = () => {
   const data = [
     {
       avatar: AVTR1,
-      name: 'Abdulrahman Muhammad',
+      name: 'Mohamed Ramadan',
       review:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, sint! Commodi eius voluptatem obcaecati sed, earum, recusandaequibusdam iusto aperiam autem provident nobis et, quo quae ea. Praesentium, dicta sapiente!',
+        'Engineer Muhammad Ramadan is meticulous in his work and meticulous in his work .He is regular in his appointments and has great experience in managing projects and solving problems',
     },
     {
       avatar: AVTR2,
-      name: 'Abdulrahman Muhammad',
+      name: 'Mohamed Ramadan',
       review:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, sint! Commodi eius voluptatem obcaecati sed, earum, recusandaequibusdam iusto aperiam autem provident nobis et, quo quae ea. Praesentium, dicta sapiente!',
+        'Engineer Muhammad Ramadan is meticulous in his work and meticulous in his work . He is regular in his appointments and has great experience in managing projects and solving problems',
     },
     {
       avatar: AVTR3,
-      name: 'Abdulrahman Muhammad',
+      name: 'Mohamed Ramadan',
       review:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, sint! Commodi eius voluptatem obcaecati sed, earum, recusandaequibusdam iusto aperiam autem provident nobis et, quo quae ea. Praesentium, dicta sapiente!',
+        'Engineer Muhammad Ramadan is meticulous in his work and meticulous in his work .He is regular in his appointments and has great experience in managing projects and solving problems',
     },
     {
       avatar: AVTR4,
-      name: 'Abdulrahman Muhammad',
+      name: 'Mohamed Ramadan',
       review:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, sint! Commodi eius voluptatem obcaecati sed, earum, recusandaequibusdam iusto aperiam autem provident nobis et, quo quae ea. Praesentium, dicta sapiente!',
+        'Engineer Muhammad Ramadan is meticulous in his work and meticulous in his work .He is regular in his appointments and has great experience in managing projects and solving problems',
     },
   ];
   return (
