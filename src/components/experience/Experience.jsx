@@ -79,7 +79,7 @@ const Experience = () => {
               <article className="experience__details">
                 <BsPatchCheckFill className="experience___icon" />
                 <div>
-                  <h4>SMS Office</h4>
+                  <h4>MS Office</h4>
                   <small className="text-align">Experienced</small>
                 </div>
               </article>{' '}
